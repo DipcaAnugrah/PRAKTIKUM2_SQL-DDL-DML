@@ -95,4 +95,4 @@ semester, nilai)
 - **Buat laporan praktikum yang berisi, langkah-langkah praktikum beserta *screenshot* yang sudah dilakukan dalam bentuk dokumen.** 
 [Laporan_Praktikum2](LAPORAN_PRAKTIKUM.pdf)
 
-[HOME](#praktikum_2)
+[HOME](#sql-ddl-dml_praktikum_2)
